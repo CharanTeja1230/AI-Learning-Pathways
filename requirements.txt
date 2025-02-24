@@ -1,0 +1,16 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+tensorflow
+keras
+gym
+flask
+shap
+lime
+torch
+torchvision
+torchaudio
